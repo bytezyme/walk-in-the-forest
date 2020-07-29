@@ -1,0 +1,6 @@
+name: walk-in-the-forest
+dependencies:
+  - numpy
+  - matplotlib
+  - scipy
+  - pandas
