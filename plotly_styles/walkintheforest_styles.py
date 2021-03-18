@@ -22,13 +22,15 @@ pio.templates["walkintheforest-dark"] = go.layout.Template(
             "color" : "white",
             "showgrid" : False,
             "zerolinewidth" : 2,
-            "title_font" :  {"size": 16}
+            "title_font" :  {"size": 16},
+            "ticks": "outside"
         },
         yaxis = {
             "color" : "white",
             "showgrid" : False,
             "zerolinewidth" : 2,
-            "title_font" :  {"size": 16}
+            "title_font" :  {"size": 16},
+            "ticks": "outside"
         },
         hovermode = "closest"
     )
