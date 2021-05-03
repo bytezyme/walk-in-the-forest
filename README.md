@@ -1,6 +1,10 @@
 # Walk in the Forest
 
-This repository hosts code and notebooks associated with the educational website, [walkintheforest.com](https://walkintheforest.com). The notebooks are deployed using [Binder](https://www.mybinder.org).
+This repository hosts the associated resources for [walkintheforest.com](https://walkintheforest.com).
+
+## Python Notebooks
+
+All Python notebooks are located in the `code/notebooks` directory. An interactive online version of these notebooks can be accessed via [Binder](https://mybinder.org).
 
 ## Binder Links to Notebooks
 
