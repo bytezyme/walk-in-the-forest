@@ -1,6 +1,6 @@
 # Walk in the Forest
 
-This repository hosts code and notebooks associated with the educational website, [walkintheforest.com](https://walkintheforest.com). The notebooks are deployed using [Binder](https://www.mybinder.org). The Conda environment used to build these notebooks is include in `environment.yml`.
+This repository hosts code and notebooks associated with the educational website, [walkintheforest.com](https://walkintheforest.com). The notebooks are deployed using [Binder](https://www.mybinder.org).
 
 ## Binder Links to Notebooks
 
